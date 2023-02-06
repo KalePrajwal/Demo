@@ -9,6 +9,7 @@ public class Ex1 {
 		ArrayList<Integer> al=new ArrayList<Integer>();
 		al.add(100);
 		al.add(200);
+		al.add(400);
 		System.out.println(al);
 	}
 
